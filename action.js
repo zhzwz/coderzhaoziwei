@@ -100,5 +100,5 @@ Promise.resolve()
   content.push(`| | |`)
   content.push(`| **Last Modified Date** | ${new Date().toLocaleDateString()} |`)
 
-  fs.writeFileSync("readme.md", content.join("\n"))
+  fs.writeFileSync("README.md", content.join("\n"))
 })
