@@ -1,0 +1,31 @@
+name: 更新文档
+
+on:
+  # 时刻表 每日凌晨
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发工作流程
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - name: 初始化
+        run: npm install yarn -g && yarn
+      - name: 运行
+        run: node action.js
+      - name: 配置
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README.md"
+      - name: 提交
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
