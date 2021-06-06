@@ -1,0 +1,15 @@
+{
+  "name": "coderzhaoziwei",
+  "version": "0.0.1",
+  "author": "Coder Zhao <coderzhaoziwei@outlook.com>",
+  "repository": "https://github.com/coderzhaoziwei/coderzhaoziwei.git",
+  "description": "",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "update": "node action.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
