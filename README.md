@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**coderzhaoziwei/coderzhaoziwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Coder Zhao's Github Stats** | |
+|:-:|:-:|
+| Public Repositories | 6 |
+| Get Stars | 108 |
+| Get Forks | 3 |
+| | |
+| **Most Used Languages** | Percentage |
+| JavaScript | 90.10% |
+| CSS | 5.76% |
+| HTML | 3.97% |
+| Shell | 0.13% |
+| Ruby | 0.04% |
+| | |
+| **Last Modified Date** | 6/6/2021 |
