@@ -98,7 +98,7 @@ Promise.resolve()
     content.push(`| ${language.name} | ${language.percentage} |`)
   })
   content.push(`| | |`)
-  content.push(`| **Last Modified Time** | ${new Date().toISOString().replace(/T|Z/g, "")} |`)
+  content.push(`| **Last Modified Time** | ${new Date().toISOString().replace(/T/, " ").replace(/\.[\d]{3}Z/, "")} |`)
 
   fs.writeFileSync("README.md", content.join("\n"))
 })
