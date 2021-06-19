@@ -1,7 +1,7 @@
 | **Coder Zhao's Github Stats** | |
 |:-:|:-:|
 | Public Repositories | 7 |
-| Get Stars | 110 |
+| Get Stars | 109 |
 | Get Forks | 3 |
 | | |
 | **Most Used Languages** | Percentage |
@@ -12,4 +12,4 @@
 | Shell | 0.10% |
 | SCSS | 0.07% |
 | | |
-| **Last Modified Time** | 2021-06-18 01:08:05 |
+| **Last Modified Time** | 2021-06-19 01:06:44 |
