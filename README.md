@@ -5,11 +5,11 @@
 | Get Forks | 3 |
 | | |
 | **Most Used Languages** | Percentage |
-| JavaScript | 90.16% |
-| HTML | 4.90% |
+| JavaScript | 90.22% |
+| HTML | 4.85% |
 | CSS | 4.34% |
-| SCSS | 0.35% |
+| SCSS | 0.34% |
 | Ruby | 0.15% |
 | Shell | 0.10% |
 | | |
-| **Last Modified Time** | 2021-07-02 01:07:07 |
+| **Last Modified Time** | 2021-07-03 01:04:06 |
