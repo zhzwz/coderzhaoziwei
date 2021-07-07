@@ -1,6 +1,6 @@
 | **Coder Zhao's Github Stats** | |
 |:-:|:-:|
-| Public Repositories | 10 |
+| Public Repositories | 11 |
 | Get Stars | 119 |
 | Get Forks | 3 |
 | | |
@@ -12,5 +12,6 @@
 | Ruby | 0.15% |
 | Shell | 0.12% |
 | Dockerfile | 0.03% |
+| Vue | 0.01% |
 | | |
-| **Last Modified Time** | 2021-07-06 01:09:10 |
+| **Last Modified Time** | 2021-07-07 01:09:24 |
