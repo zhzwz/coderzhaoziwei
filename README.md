@@ -9,9 +9,9 @@
 | HTML | 4.77% |
 | CSS | 4.24% |
 | SCSS | 0.34% |
+| Shell | 0.15% |
 | Ruby | 0.15% |
-| Shell | 0.14% |
 | Vue | 0.06% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2021-07-08 01:06:03 |
+| **Last Modified Time** | 2021-07-09 01:07:06 |
