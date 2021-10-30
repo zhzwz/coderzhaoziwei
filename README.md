@@ -1,7 +1,7 @@
 | **Coder Zhao's Github Stats** | |
 |:-:|:-:|
 | Public Repositories | 12 |
-| Get Stars | 139 |
+| Get Stars | 140 |
 | Get Forks | 4 |
 | | |
 | **Most Used Languages** | Percentage |
@@ -14,4 +14,4 @@
 | Vue | 0.06% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2021-10-29 01:07:21 |
+| **Last Modified Time** | 2021-10-30 01:07:06 |
