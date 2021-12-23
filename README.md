@@ -2,7 +2,7 @@
 |:-:|:-:|
 | Public Repositories | 12 |
 | Get Stars | 153 |
-| Get Forks | 5 |
+| Get Forks | 4 |
 | | |
 | **Most Used Languages** | Percentage |
 | JavaScript | 90.13% |
@@ -15,4 +15,4 @@
 | TypeScript | 0.10% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2021-12-22 01:16:34 |
+| **Last Modified Time** | 2021-12-23 01:14:39 |
