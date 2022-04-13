@@ -1,7 +1,7 @@
 | **Coder Zhao's Github Stats** | |
 |:-:|:-:|
 | Public Repositories | 12 |
-| Get Stars | 174 |
+| Get Stars | 175 |
 | Get Forks | 6 |
 | | |
 | **Most Used Languages** | Percentage |
@@ -15,4 +15,4 @@
 | TypeScript | 0.10% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2022-04-12 01:50:07 |
+| **Last Modified Time** | 2022-04-13 01:58:43 |
