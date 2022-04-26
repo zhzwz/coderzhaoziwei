@@ -6,13 +6,13 @@
 | | |
 | **Most Used Languages** | Percentage |
 | JavaScript | 88.64% |
-| HTML | 4.70% |
+| HTML | 4.73% |
 | CSS | 4.03% |
-| TypeScript | 1.74% |
+| TypeScript | 1.70% |
 | SCSS | 0.32% |
 | Vue | 0.26% |
 | Shell | 0.14% |
 | Ruby | 0.14% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2022-04-25 02:00:19 |
+| **Last Modified Time** | 2022-04-26 02:07:36 |
