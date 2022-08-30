@@ -78,7 +78,7 @@ class User {
   }
 }
 
-const user = new User("coderzhaoziwei")
+const user = new User("zhzwz")
 
 Promise.resolve()
 .then(() => user.init())
