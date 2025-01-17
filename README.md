@@ -1,7 +1,7 @@
 | **Coder Zhao's Github Stats** | |
 |:-:|:-:|
 | Public Repositories | 18 |
-| Get Stars | 299 |
+| Get Stars | 295 |
 | Get Forks | 11 |
 | | |
 | **Most Used Languages** | Percentage |
@@ -15,4 +15,4 @@
 | Ruby | 0.14% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2025-01-16 00:29:01 |
+| **Last Modified Time** | 2025-01-17 00:28:53 |
