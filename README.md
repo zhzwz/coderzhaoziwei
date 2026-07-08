@@ -1,18 +1,18 @@
 | **Coder Zhao's Github Stats** | |
 |:-:|:-:|
 | Public Repositories | 20 |
-| Get Stars | 322 |
-| Get Forks | 13 |
+| Get Stars | 11 |
+| Get Forks | 1 |
 | | |
 | **Most Used Languages** | Percentage |
-| JavaScript | 86.13% |
-| HTML | 4.61% |
-| TypeScript | 4.15% |
-| CSS | 4.08% |
-| Vue | 0.41% |
-| SCSS | 0.31% |
-| Shell | 0.15% |
-| Ruby | 0.14% |
+| JavaScript | 83.12% |
+| TypeScript | 7.81% |
+| CSS | 4.10% |
+| HTML | 3.90% |
+| Vue | 0.44% |
+| SCSS | 0.33% |
+| Ruby | 0.15% |
+| Shell | 0.13% |
 | Dockerfile | 0.03% |
 | | |
-| **Last Modified Time** | 2026-07-07 04:07:47 |
+| **Last Modified Time** | 2026-07-08 03:32:41 |
