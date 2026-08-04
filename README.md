@@ -5,15 +5,15 @@
 | Get Forks | 1 |
 | | |
 | **Most Used Languages** | Percentage |
-| JavaScript | 71.82% |
-| Lua | 12.21% |
-| TypeScript | 8.13% |
-| CSS | 3.54% |
-| HTML | 3.37% |
-| Vue | 0.38% |
-| SCSS | 0.28% |
-| Ruby | 0.13% |
+| JavaScript | 68.71% |
+| Lua | 15.87% |
+| TypeScript | 7.92% |
+| CSS | 3.39% |
+| HTML | 3.22% |
+| Vue | 0.36% |
+| SCSS | 0.27% |
+| Ruby | 0.12% |
 | Shell | 0.11% |
 | Dockerfile | 0.02% |
 | | |
-| **Last Modified Time** | 2026-08-03 03:40:50 |
+| **Last Modified Time** | 2026-08-04 03:25:28 |
